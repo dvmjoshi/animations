@@ -22,7 +22,8 @@ if you like my work support me
 > If you found this project helpful or you learned something from the source code and want to appreciate
 >
 > - [PayPal](https://paypal.me/divyamjoshi)
-<br>
+<br />
+
 ## License
 
 ```
