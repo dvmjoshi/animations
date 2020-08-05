@@ -1,5 +1,5 @@
 ## Animations
-Learn animation basic components in flutter
+Learn animation basic components in flutter||
 
 ## Features
 * 3  type of animations covered
